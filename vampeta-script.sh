@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#Obtem a mesma
 cd /tmp/
 
 wget http://www.culturamix.com/wp-content/uploads/2009/10/vampeta-3.jpg -c -q
